@@ -8,5 +8,5 @@ __Instructions__
 - A file chooser window will pop up
 - Select the .json file you would like to clean
 - The process will run, creating a new file.
-- The new file will duplicate the original files name, adding "Cleaned_" to the beginning
+- The new file will duplicate the original file name, adding "Cleaned_" to the beginning
 - The console will ask if you'd like to open the new file in your default .json editior (y,n)
