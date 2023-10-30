@@ -1,6 +1,7 @@
 # StripJSON
 A script to strip all comments, extra space, and unnecessary characters from a JSON file.
 
+__Instructions__
 - Run StripJSON.py
 - A file chooser window will pop up
 - Select the .json file you would like to clean
